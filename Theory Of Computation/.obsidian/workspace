@@ -7,12 +7,8 @@
         "id": "03a0f47d59036aee",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Non-deterministic Automata.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -70,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Non-deterministic Automata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +85,15 @@
   },
   "active": "03a0f47d59036aee",
   "lastOpenFiles": [
+    "Concatenation and Reverse of Languages.md",
+    "Deterministic Finite Automata.md",
     "Non-deterministic Automata.md",
     "Finite Automata.md",
     "Theory Of Computation.md",
     "Language Hierarchy.md",
     "Languages.md",
-    "Deterministic Finite Automata.md",
     "Concatenation and Reversal of Strings.md",
     "DFSM Halts.md",
-    "evenaregion.svg",
-    "NFA TO DFA.md"
+    "evenaregion.svg"
   ]
 }

@@ -14,7 +14,9 @@ A Non-Deterministic [[Non-deterministic Automata|NDFSM]] M is quintuple $(K, \su
 
 ##### [[Finite Automata]] With $\epsilon$-Transitions($\epsilon$-[[Non-deterministic Automata|NFA]])
 
+We represent $\epsilon$-NFA A by $A = (Q, \sum, \delta, q_0, F)$, where all components have their same interpretation as for an [[Non-deterministic Automata|NFA]], expect that $\delta$ is now a function that takes as arguments:
 
-
+- A state in Q,
+- A member of $\sum\ \cup\ \{\epsilon\}$, that is, either an input symbol, or the symbol $\epsilon$.
 
 [Deterministic Finite Automata](obsidian://open?vault=Theory%20Of%20Computation&file=Deterministic%20Finite%20Automata)
