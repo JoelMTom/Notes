@@ -91,13 +91,13 @@
   "active": "03a0f47d59036aee",
   "lastOpenFiles": [
     "Finite Automata.md",
+    "Languages.md",
+    "Deterministic Finite Automata.md",
     "Theory Of Computation.md",
     "Non-deterministic Automata.md",
     "Language Hierarchy.md",
     "Concatenation and Reversal of Strings.md",
-    "Languages.md",
     "DFSM Halts.md",
-    "Deterministic Finite Automata.md",
     "evenaregion.svg",
     "NFA TO DFA.md"
   ]
