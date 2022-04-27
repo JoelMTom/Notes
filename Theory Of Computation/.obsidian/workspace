@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "480b71b3deb4c74d",
@@ -90,8 +91,8 @@
   "active": "03a0f47d59036aee",
   "lastOpenFiles": [
     "Finite Automata.md",
-    "Non-deterministic Automata.md",
     "Theory Of Computation.md",
+    "Non-deterministic Automata.md",
     "Language Hierarchy.md",
     "Languages.md",
     "Deterministic Finite Automata.md",
