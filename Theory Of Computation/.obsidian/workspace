@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "97cbf376d5d9a16a",
+    "type": "split",
+    "children": [
+      {
+        "id": "03a0f47d59036aee",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Theory Of Computation.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "89a6c06d5f55abac",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3c6c142b329dd00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f2e9c3d7cfb1702",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7858b60db1c0ec87",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "480b71b3deb4c74d",
+    "type": "split",
+    "children": [
+      {
+        "id": "09c216056f4a79e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a676be38df40e4e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Theory Of Computation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "03a0f47d59036aee",
+  "lastOpenFiles": [
+    "Theory Of Computation.md",
+    "NFA TO DFA.md",
+    "Deterministic Finite Automata.md",
+    "Finite Automata.md",
+    "Non-deterministic Automata.md",
+    "Language Hierarchy.md",
+    "Languages.md",
+    "DFSM Halts.md",
+    "evenaregion.svg",
+    "Concatenation and Reverse of Languages.md"
+  ]
+}

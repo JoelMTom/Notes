@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "36c3526c7af04690",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac7aac50fb33d851",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Compiler Design.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "34cd61a2bf6eb893",
+    "type": "split",
+    "children": [
+      {
+        "id": "e402a6bec2287656",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fe6c091f32bd3e4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7c5af2c796963399",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c78f047d4608a817",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2c443b7470a93c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89b74e9ca59c2dc5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Compiler Design.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ac7aac50fb33d851",
+  "lastOpenFiles": [
+    "Compiler Design.md",
+    "Symbol Table.md"
+  ]
+}
