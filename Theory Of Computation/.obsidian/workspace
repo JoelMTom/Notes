@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Finite Automata.md",
+            "file": "Non-deterministic Automata.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Finite Automata.md",
+                "file": "Non-deterministic Automata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,9 +90,9 @@
   },
   "active": "03a0f47d59036aee",
   "lastOpenFiles": [
+    "Non-deterministic Automata.md",
     "Finite Automata.md",
     "Theory Of Computation.md",
-    "Non-deterministic Automata.md",
     "Language Hierarchy.md",
     "Languages.md",
     "Deterministic Finite Automata.md",

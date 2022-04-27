@@ -18,4 +18,4 @@ Theorem: If $D = (Q_D, \sum, \delta_D, \{q_0\}, F_D)$ is the [[Deterministic Fin
 > [!Info]
 > Theorem: A language $L$ is accepted by some [[Deterministic Finite Automata|DFA]] if and only if $L$ is accepted by some [[NFA]]
 
-##### [[Finite Automata]] With $\epsilon$-Transitions
+
