@@ -33,3 +33,7 @@ We will get rid of the stack of **Pushdown automata** and replace it with an inf
 
  - A language L is decidable iff there exists a Turing machine M that halts on all inputs, accepts all strings that are in L, and rejects all strings that are not in L. In other words, M can always say yes or no, as appropriate.
  - A language L is semidecidable iff there exists a Turing machine M that halts on all inputs, accepts all strings that are in L, and fails to accept every string that is not in L. Given a string that is not in L, M may reject or it may loop forever. In other words, M can recognize a solution and then say yes, but it may not know when it should give up looking for a solution and say no.
+
+
+
+[[Finite Automata]]

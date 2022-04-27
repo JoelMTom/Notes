@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "480b71b3deb4c74d",
@@ -91,11 +90,11 @@
   "active": "03a0f47d59036aee",
   "lastOpenFiles": [
     "Finite Automata.md",
+    "Non-deterministic Automata.md",
+    "Theory Of Computation.md",
+    "Language Hierarchy.md",
     "Languages.md",
     "Deterministic Finite Automata.md",
-    "Theory Of Computation.md",
-    "Non-deterministic Automata.md",
-    "Language Hierarchy.md",
     "Concatenation and Reversal of Strings.md",
     "DFSM Halts.md",
     "evenaregion.svg",

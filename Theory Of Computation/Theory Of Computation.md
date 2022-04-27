@@ -78,6 +78,10 @@ $$
 [[Languages]]
 [[Language Hierarchy]]
 [[Finite Automata]]
+[[Deterministic Finite Automata|DFA]]
+[[Non-deterministic Automata|NFA]]
+
+
 
 
 
