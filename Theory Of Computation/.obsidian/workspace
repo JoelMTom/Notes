@@ -7,8 +7,12 @@
         "id": "03a0f47d59036aee",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Regular Expressions and Languages.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -66,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Regular Expressions and Languages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,15 +90,15 @@
   },
   "active": "03a0f47d59036aee",
   "lastOpenFiles": [
+    "Regular Expressions and Languages.md",
+    "Theory Of Computation.md",
+    "Non-deterministic Automata.md",
     "Concatenation and Reverse of Languages.md",
     "Deterministic Finite Automata.md",
-    "Non-deterministic Automata.md",
     "Finite Automata.md",
-    "Theory Of Computation.md",
     "Language Hierarchy.md",
     "Languages.md",
     "Concatenation and Reversal of Strings.md",
-    "DFSM Halts.md",
-    "evenaregion.svg"
+    "DFSM Halts.md"
   ]
 }

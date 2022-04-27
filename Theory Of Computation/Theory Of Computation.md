@@ -80,6 +80,8 @@ $$
 [[Finite Automata]]
 [[Deterministic Finite Automata|DFA]]
 [[Non-deterministic Automata|NFA]]
+[[Regular Expressions and Languages]]
+
 
 
 
