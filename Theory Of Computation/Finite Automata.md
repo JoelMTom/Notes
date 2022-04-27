@@ -11,3 +11,7 @@ Two Types of [[Finite Automata|FA]] are:
 - [[Non-deterministic Automata]]
 
 
+>[!INFO]
+Theorem: If $D = (Q_D, \sum, \delta_D, \{q_0\}, F_D)$ is the [[Deterministic Finite Automata|DFA]] constructed from [[Non-deterministic Automata|NFA]] $D = (Q_N, \sum, \delta_N, q_0, F_N)$ by the subset construction, then $L(D) = L(N)$
+
+
