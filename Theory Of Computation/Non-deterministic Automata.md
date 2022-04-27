@@ -12,7 +12,8 @@ A Non-Deterministic [[Non-deterministic Automata|NDFSM]] M is quintuple $(K, \su
 - $\Delta$ is the transition relation.
 
 
-##### [[Finite Automata]] With $\epsilon$-Transitions
+##### [[Finite Automata]] With $\epsilon$-Transitions($\epsilon$-[[Non-deterministic Automata|NFA]])
+
 
 
 
