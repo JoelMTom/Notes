@@ -37,4 +37,6 @@ C | C | C
 >[!Info]
 >Theorem: Every [[Deterministic Finite Automata|DFSM]] M, on input w, halts after $|w|$ steps.
 
+
 [Non-deterministic Finite Automata](obsidian://open?vault=Theory%20Of%20Computation&file=Non-deterministic%20Automata)
+
