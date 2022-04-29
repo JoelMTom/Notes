@@ -11,4 +11,5 @@ For each regular Expression $E$, the language it represent is $L(E)$.
 
 **INDUCTION**: There are four parts to the inductive step:
 
-- 
+- If $E$ and $F$ are regular expressions, then $E + F$ is a regular expression denoting the union of $L(E)$ and $L(F)$. $L(E+F) = L(E) \cup L(F)$.
+- If $E$ and $F$ are regular expressions, then $EF$ is a regular expression denoting the concatenation of $L(E)$ and $L(F)$. $L(EF) = L(E)L(F)$.
