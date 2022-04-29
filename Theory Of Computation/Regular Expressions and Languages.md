@@ -13,3 +13,6 @@ For each regular Expression $E$, the language it represent is $L(E)$.
 
 - If $E$ and $F$ are regular expressions, then $E + F$ is a regular expression denoting the union of $L(E)$ and $L(F)$. $L(E+F) = L(E) \cup L(F)$.
 - If $E$ and $F$ are regular expressions, then $EF$ is a regular expression denoting the concatenation of $L(E)$ and $L(F)$. $L(EF) = L(E)L(F)$.
+- If $E$ is a regular expression then $E*$ is a regular expression, denoting the closure of $L(E)$. $L(E*) = (L(E))*$.
+- If $E$ is a regular expression, then $(E)$, a parenthesized $E$, is also a regular expression, denoting the same language as $E$. $L((E)) = L(E)$
+
