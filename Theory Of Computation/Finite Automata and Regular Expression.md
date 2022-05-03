@@ -5,6 +5,8 @@ Theorem: If $L = L(A)$ for some DFA $A$, then there is a regular expression $R$ 
 
 ##### DFA To RE
 ![[dfatore.svg]]
+  +
+  +
   | Regular Expression
   ---| ---
   
