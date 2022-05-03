@@ -18,6 +18,15 @@ Regular Expression | Direct Substitution
  $R_{22}^{(0)}$ | $\epsilon + 1 + 0$
 
  Regular Expression | Direct Substitution | Simplified
----| ---
-
-  
+---| --- | ---
+ $R_{11}^{(1)}$ | $\epsilon + 1 + (\epsilon + 1)(\epsilon + 1)^*(\epsilon + 1)$ | $1^*$
+ $R_{12}^{(1)}$ | $0 + (\epsilon + 1)(\epsilon + 1)^*(0)$ | $1^*0$
+ $R_{21}^{(1)}$ | $\phi + \phi(\epsilon + 1)^*(\epsilon + 1)$ | $\phi$
+ $R_{22}^{(1)}$ | $\epsilon + 1 + 0 + \phi(\epsilon + 1)^*0$ | $\epsilon + 0 + 1$
+ 
+   Regular Expression | Direct Substitution | Simplified
+---| --- | ---
+ $R_{11}^{(2)}$ | $1^* + 1^*0(\epsilon + 0 + 1)^*\phi$ | $1^*$
+ $R_{12}^{(2)}$ | $1^*0 + 1^*(\epsilon + 0 + 1)^*(\epsilon + 0 + 1)$ | $$
+ $R_{21}^{(1)}$ | $\phi + \phi(\epsilon + 1)^*(\epsilon + 1)$ | $\phi$
+ $R_{22}^{(1)}$ | $\epsilon + 1 + 0 + \phi(\epsilon + 1)^*0$ | $\epsilon + 0 + 1$
