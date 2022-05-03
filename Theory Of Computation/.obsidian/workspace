@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Regular Expressions and Languages.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -89,8 +89,8 @@
   "active": "03a0f47d59036aee",
   "lastOpenFiles": [
     "Regular Expressions and Languages.md",
-    "Finite Automata and Regular Expression.md",
     "Theory Of Computation.md",
+    "Finite Automata and Regular Expression.md",
     "Untitled.md",
     "Finite Automata.md",
     "Non-deterministic Automata.md",
