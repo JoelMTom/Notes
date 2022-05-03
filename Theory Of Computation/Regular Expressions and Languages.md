@@ -16,3 +16,4 @@ For each regular Expression $E$, the language it represent is $L(E)$.
 - If $E$ is a regular expression then $E*$ is a regular expression, denoting the closure of $L(E)$. $L(E*) = (L(E))*$.
 - If $E$ is a regular expression, then $(E)$, a parenthesized $E$, is also a regular expression, denoting the same language as $E$. $L((E)) = L(E)$
 
+[[Finite Automata and Regular Expression]]
