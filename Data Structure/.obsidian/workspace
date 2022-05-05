@@ -1,16 +1,16 @@
 {
   "main": {
-    "id": "97cbf376d5d9a16a",
+    "id": "6784caabd4fac3ff",
     "type": "split",
     "children": [
       {
-        "id": "03a0f47d59036aee",
+        "id": "0f1670b041034e75",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Regular Expressions and Languages.md",
-            "mode": "preview",
+            "file": "Suffix Tree.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "89a6c06d5f55abac",
+    "id": "f59159387f45d08b",
     "type": "split",
     "children": [
       {
-        "id": "c3c6c142b329dd00",
+        "id": "531ae146a69a408d",
         "type": "tabs",
         "children": [
           {
-            "id": "6f2e9c3d7cfb1702",
+            "id": "761494b874831ce6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +35,7 @@
             }
           },
           {
-            "id": "7858b60db1c0ec87",
+            "id": "4c9dcd6f197eed4c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -53,31 +53,30 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "480b71b3deb4c74d",
+    "id": "cea2ab8c5ea2881c",
     "type": "split",
     "children": [
       {
-        "id": "09c216056f4a79e8",
+        "id": "625a876b597c7390",
         "type": "tabs",
         "children": [
           {
-            "id": "5a676be38df40e4e",
+            "id": "e62fc5a1823b9576",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Regular Expressions and Languages.md",
+                "file": "Suffix Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -88,17 +87,8 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "03a0f47d59036aee",
+  "active": "0f1670b041034e75",
   "lastOpenFiles": [
-    "Regular Expressions and Languages.md",
-    "Theory Of Computation.md",
-    "Finite Automata and Regular Expression.md",
-    "Untitled.md",
-    "Finite Automata.md",
-    "Non-deterministic Automata.md",
-    "Deterministic Finite Automata.md",
-    "Language Hierarchy.md",
-    "Languages.md",
-    "Concatenation and Reverse of Languages.md"
+    "Suffix Tree.md"
   ]
 }
