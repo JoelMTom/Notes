@@ -81,6 +81,7 @@ $$
 [[Deterministic Finite Automata|DFA]]
 [[Non-deterministic Automata|NFA]]
 [[Regular Expressions and Languages]]
+[[Converting Regular Expressions to Automata]]
 
 
 
