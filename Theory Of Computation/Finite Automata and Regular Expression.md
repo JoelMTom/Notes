@@ -35,8 +35,11 @@ Regular Expression | Direct Substitution
 ##### Converting DFA's to Regular Expression by Eliminating States
 ----
 We suppose that the automaton of which $s$ is a state has predecessor states $q_1, q_2, ... , q_k$ for $s$ and sucessor states $p_1, p_2, ... ,p_m$ for $s$. For each arc from one of the $q's$ to s, expression $Q_1$ labels the arc from $q_i$. Similarly,  expression $P_i$ labels the arc from $s$ to $p_i$.
+
+When we eliminate state $s$, all arcs involving state $s$ are deleted. To compensate, we introduce, for each predecessor $q_i$ of $s$ and each successor $p_j$, a regular expression that represents all the paths that starts at $q_i$, go to $s$, perhaps loops around $s$ zero or more times, annd finally go to $p_j$. The expression for this path is $Q_iS^*P_j$ This expression is added to the arc from $q_i$ to $p_j$.
  
 
 The strategy for constructing a regular expression from a finite automaton is as follows:
 
-- For each accepting state $q$ , apply the 
+- For each accepting state $q$ , apply the above reduction process to produce an equivalent automaton with regular-expression labels on the arcs. Eliminate all states except $q$ and the start state $q_0$.
+- If $q \neq q_0$, then we shall be left with a two-state automaton that look like
