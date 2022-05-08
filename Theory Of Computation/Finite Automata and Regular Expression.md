@@ -56,3 +56,6 @@ Consider the NFA that accepts all strings of $0's$ and $1's$ such that either th
 First eliminate state B, it has one predecessor, A, and one successor, C.
 $Q_1 = 1,\ P_1 = 0 + 1,\ R_{11} = \phi,\ and\ S = \phi$.
 $\therefore$ The expression on the new arc from A to C is $\phi + 1\phi^*(0+1)$ = $1(0+1)$
+![[01secthird1.svg]]
+Now eliminate C, 
+Regular expression is $$
