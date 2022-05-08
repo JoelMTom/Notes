@@ -65,4 +65,7 @@ $\therefore$ the regular expression is $((0+1) + 1(0+1)(0+1)\phi^*\phi)^*1(0+1)(
 Now eliminate D,
 Regular expression for the arc from A to C is $1(0+1)$
 ![[01secthird3.svg]]
-$\therefore$ the regular Expression is $(0+1 + 1(0+1)\phi^*\phi)^*1(0+1)\phi^* = (0+1)^*1(0+1)$   
+$\therefore$ the regular Expression is $(0+1 + 1(0+1)\phi^*\phi)^*1(0+1)\phi^* = (0+1)^*1(0+1)$
+
+The expression for entire automata is $(0+1)^*1(0+1)(0+1) + (0+1)^*1(0+1)$
+

@@ -1,0 +1,30 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="797" height="599" version="1.1" xmlns="http://www.w3.org/2000/svg">
+	<ellipse stroke="white" stroke-width="1" fill="none" cx="183.5" cy="228.5" rx="30" ry="30"/>
+	<text fill="white" x="178.5" y="234.5" font-family="Times New Roman" font-size="20">1</text>
+	<ellipse stroke="white" stroke-width="1" fill="none" cx="183.5" cy="228.5" rx="24" ry="24"/>
+	<ellipse stroke="white" stroke-width="1" fill="none" cx="379.5" cy="228.5" rx="30" ry="30"/>
+	<text fill="white" x="374.5" y="234.5" font-family="Times New Roman" font-size="20">2</text>
+	<ellipse stroke="white" stroke-width="1" fill="none" cx="379.5" cy="228.5" rx="24" ry="24"/>
+	<ellipse stroke="white" stroke-width="1" fill="none" cx="306.5" cy="370.5" rx="30" ry="30"/>
+	<text fill="white" x="301.5" y="376.5" font-family="Times New Roman" font-size="20">3</text>
+	<polygon stroke="white" stroke-width="1" points="213.5,228.5 349.5,228.5"/>
+	<polygon fill="white" stroke-width="1" points="349.5,228.5 341.5,223.5 341.5,233.5"/>
+	<text fill="white" x="262.5" y="249.5" font-family="Times New Roman" font-size="20">b/a/&#949;</text>
+	<polygon stroke="white" stroke-width="1" points="365.784,255.181 320.216,343.819"/>
+	<polygon fill="white" stroke-width="1" points="320.216,343.819 328.321,338.99 319.427,334.418"/>
+	<text fill="white" x="299.5" y="294.5" font-family="Times New Roman" font-size="20">a/&#949;/&#949;</text>
+	<path stroke="white" stroke-width="1" fill="none" d="M 177.169,199.295 A 22.5,22.5 0 1 1 202.83,205.711"/>
+	<text fill="white" x="198.5" y="152.5" font-family="Times New Roman" font-size="20">a/&#949;/a</text>
+	<polygon fill="white" stroke-width="1" points="202.83,205.711 212.173,204.404 205.75,196.74"/>
+	<path stroke="white" stroke-width="1" fill="none" d="M 360.489,205.444 A 22.5,22.5 0 1 1 386.236,199.386"/>
+	<text fill="white" x="328.5" y="151.5" font-family="Times New Roman" font-size="20">b/a/&#949;</text>
+	<polygon fill="white" stroke-width="1" points="386.236,199.386 393.942,193.943 384.72,190.075"/>
+	<path stroke="white" stroke-width="1" fill="none" d="M 285.104,391.361 A 22.5,22.5 0 1 1 276.927,366.206"/>
+	<text fill="white" x="177.5" y="404.5" font-family="Times New Roman" font-size="20">a, b/&#949;/&#949;</text>
+	<polygon fill="white" stroke-width="1" points="276.927,366.206 270.863,358.98 267.774,368.491"/>
+	<polygon stroke="white" stroke-width="1" points="118.5,228.5 153.5,228.5"/>
+	<polygon fill="white" stroke-width="1" points="153.5,228.5 145.5,223.5 145.5,233.5"/>
+</svg>
