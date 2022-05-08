@@ -51,3 +51,4 @@ The regular expressionn denoting the strigs that it accepts is $R^*$.
 - The desired regular expression is the sum of all expressions derived from the reduced automata for each accepting state.
 
 #### Example
+Consider the NFA that accepts all strings of $0's$ and $1's$ such that either the second ot third position from the end has a $1$.
