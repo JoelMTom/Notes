@@ -35,3 +35,6 @@ Regular Expression | Direct Substitution
 ##### Converting DFA's to Regular Expression by Eliminating States
 ----
 
+The strategy for constructing a regular expression from a finite automaton is as follows:
+
+- For each accepting state $q$ , apply the 
