@@ -42,4 +42,4 @@ When we eliminate state $s$, all arcs involving state $s$ are deleted. To compen
 The strategy for constructing a regular expression from a finite automaton is as follows:
 
 - For each accepting state $q$ , apply the above reduction process to produce an equivalent automaton with regular-expression labels on the arcs. Eliminate all states except $q$ and the start state $q_0$.
-- If $q \neq q_0$, then we shall be left with a two-state automaton that look like
+- If $q \neq q_0$, then we shall be left with a two-state automaton
