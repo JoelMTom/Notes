@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Finite Automata and Regular Expression.md",
+            "file": "Converting Regular Expressions to Automata.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Finite Automata and Regular Expression.md",
+                "file": "Converting Regular Expressions to Automata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,9 +90,9 @@
   },
   "active": "03a0f47d59036aee",
   "lastOpenFiles": [
-    "Finite Automata and Regular Expression.md",
     "Converting Regular Expressions to Automata.md",
     "Converting DFA to Regular expressions.md",
+    "Finite Automata and Regular Expression.md",
     "NFA TO DFA.md",
     "Deterministic Finite Automata.md",
     "Theory Of Computation.md",
