@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Finite Automata and Regular Expression.md",
-            "mode": "preview",
+            "file": "Converting Regular Expressions to Automata.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "480b71b3deb4c74d",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Finite Automata and Regular Expression.md",
+                "file": "Converting Regular Expressions to Automata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,10 +85,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "03a0f47d59036aee",
   "lastOpenFiles": [
+    "Converting Regular Expressions to Automata.md",
     "Finite Automata and Regular Expression.md",
     "Regular Expressions and Languages.md",
     "Theory Of Computation.md",
@@ -96,7 +99,6 @@
     "Deterministic Finite Automata.md",
     "DFSM Halts.md",
     "Finite Automata.md",
-    "Language Hierarchy.md",
-    "Languages.md"
+    "Language Hierarchy.md"
   ]
 }
