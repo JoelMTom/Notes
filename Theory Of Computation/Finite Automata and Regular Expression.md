@@ -4,6 +4,7 @@
 Theorem: If $L = L(A)$ for some DFA $A$, then there is a regular expression $R$ such that $L =  L(R)$.
 
 ##### DFA To RE
+---
 For example,
 ![[dfatore.svg]]
 $$
@@ -30,4 +31,7 @@ Regular Expression | Direct Substitution
  $R_{12}^{(2)}$ | $1^*0 + 1^*(\epsilon + 0 + 1)^*(\epsilon + 0 + 1)$ | $1^*0(0 +1)^*$
  $R_{21}^{(1)}$ | $\phi + (\epsilon + 0 + 1)(\epsilon + 0 + 1)^*\phi$ | $\phi$
  $R_{22}^{(1)}$ | $\epsilon + 0 + 1 + (\epsilon + 0 + 1)(\epsilon + 0 + 1)^*\epsilon + 0 + 1$ | $(0 + 1)^*$
+
+##### Converting DFA's to Regular Expression by Eliminating States
+----
 
