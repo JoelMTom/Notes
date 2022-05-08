@@ -19,4 +19,4 @@ We represent $\epsilon$-NFA A by $A = (Q, \sum, \delta, q_0, F)$, where all comp
 - A state in Q,
 - A member of $\sum\ \cup\ \{\epsilon\}$, that is, either an input symbol, or the symbol $\epsilon$.
 
-[[[Deterministic Finite Automata]]](obsidian://open?vault=Theory%20Of%20Computation&file=Deterministic%20Finite%20Automata)
+[[Deterministic Finite Automata]]
