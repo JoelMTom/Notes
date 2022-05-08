@@ -43,3 +43,9 @@ The strategy for constructing a regular expression from a finite automaton is as
 
 - For each accepting state $q$ , apply the above reduction process to produce an equivalent automaton with regular-expression labels on the arcs. Eliminate all states except $q$ and the start state $q_0$.
 - If $q \neq q_0$, then we shall be left with a two-state automaton like the given Fig.
+![[twostate.svg]]
+The regular expression for the accepted strings can be described in various ways. One is $(R+SU^*T)^*SU^*$.
+- If the start state is also an accepting state, then we must also perform a state-elimination from the original automatonn that gets rid of every state but the start state. Then we are left with one-state automaton that looks like the given Fig. 
+![[onestate.svg]]
+The regular expressionn denoting the strigs that it accepts is $R^*$.
+- The desired regular expression is the sum of all expressions derived from the reduced automata for each accepting state.
