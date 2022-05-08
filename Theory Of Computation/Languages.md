@@ -41,4 +41,5 @@ $L^+ = L^* - \{\epsilon\}$
 >[!INFO]
 Theorem: If $L_1$ and $L_2$ are languages, then $(L1 L2)^R = L_2^R L_1^R$
 
-[next](obsidian://open?vault=Theory%20Of%20Computation&file=Language%20Hierarchy)
+[[Language Hierarchy]]
+

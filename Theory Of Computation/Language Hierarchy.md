@@ -2,9 +2,9 @@
 ---
 ##### A Machine-Based Hierarchy of Language Classes
 
-- ###### The Regular Languages
+- ###### The Regular [[Languages]]
 
-	- We will call the class of languages that can be accepted by some [[Finite Automata|FSM]] **regular**.
+	- We will call the class of [[languages]] that can be accepted by some [[Finite Automata|FSM]] **regular**.
 
 $$
 \begin{align}
@@ -16,8 +16,8 @@ $$
 
 ![Image](abeforeb.svg)
 
-- ###### The Context-Free Languages
-	- The language which is not accepted by FSM and accepted by **Pushdown Automata** a **Context-Free** Languages
+- ###### The Context-Free [[Languages]]
+	- The language which is not accepted by FSM and accepted by **Pushdown Automata** a **Context-Free** [[Languages]]
 
 $$
 \begin{align}
@@ -27,7 +27,7 @@ For\ examp&le,\\
 \end{align}
 $$
 ![[anbn.svg]]
-#### The Decidable and Semdecidable Languages
+#### The Decidable and Semdecidable [[Languages]]
 ##### Turing Machine
 We will get rid of the stack of **Pushdown automata** and replace it with an infinite tape. The tape will have a single read/write head. Only the tape square under the read/write head can be accessed (for reading or for writing). The read/write head can be moved one square in either direction on each move. The resulting machine is called a **Turing machine**
 

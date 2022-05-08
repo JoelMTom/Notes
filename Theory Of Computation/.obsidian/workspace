@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Language Hierarchy.md",
+            "file": "Non-deterministic Automata.md",
             "mode": "preview",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Language Hierarchy.md",
+                "file": "Non-deterministic Automata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "03a0f47d59036aee",
   "lastOpenFiles": [
-    "Language Hierarchy.md",
-    "Languages.md",
-    "Theory Of Computation.md",
-    "Regular Expressions and Languages.md",
-    "Finite Automata and Regular Expression.md",
-    "NFA TO DFA.md",
-    "Finite Automata.md",
     "Non-deterministic Automata.md",
+    "NFA TO DFA.md",
+    "Languages.md",
+    "Language Hierarchy.md",
+    "Finite Automata and Regular Expression.md",
+    "Finite Automata.md",
+    "DFSM Halts.md",
     "Deterministic Finite Automata.md",
-    "Untitled.md"
+    "Concatenation and Reverse of Languages.md",
+    "Concatenation and Reversal of Strings.md"
   ]
 }

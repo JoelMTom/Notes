@@ -1,4 +1,4 @@
-#### NFA To DFA Conversion
+#### [[Non-deterministic Automata|NFA]] To [[Deterministic Finite Automata|DFA]] Conversion
 ---
 $$
 \begin{aligned}
@@ -9,7 +9,7 @@ $$
 ##### [[Non-deterministic Automata|NFA]]
 
 ![[end01.svg]]
-##### Transition Table for NFA
+##### Transition Table for [[Non-deterministic Automata|NFA]]
 
 States/input | 0 | 1 
 ---| ---| --- 
@@ -17,10 +17,10 @@ States/input | 0 | 1
 B| $\phi$ | {C}
 \*C | $\phi$ | $\phi$
 
-NFA N = ($Q_N$, $\sum$, $\delta_N$, $A$, $F_N$)
+[[Non-deterministic Automata|NFA]] N = ($Q_N$, $\sum$, $\delta_N$, $A$, $F_N$)
 
 
-##### Transition Table for DFA By Subset Construction
+##### Transition Table for [[Deterministic Finite Automata|DFA]] By Subset Construction
 States | 0 | 1
 ---| --- | ---
  $\phi$ | $\phi$ | $\phi$

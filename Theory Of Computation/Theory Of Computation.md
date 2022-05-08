@@ -1,6 +1,6 @@
 # Theory Of Computation
 ---
-## Languages And Strings
+## [[Languages]] And Strings
 ### Alphabet
 
 An alphabet is denoted by $\sum$ , a finite set. The members of $\sum$ are called symbols and characters.
