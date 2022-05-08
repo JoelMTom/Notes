@@ -34,6 +34,8 @@ Regular Expression | Direct Substitution
 
 ##### Converting DFA's to Regular Expression by Eliminating States
 ----
+We suppose that the automaton of which $s$ is a state has predecessor states $q_1, q_2, ... , q_k$ for $s$ and sucessor states $p_1, p_2, ... ,p_m$ for $s$. For each arc from one of the $q's$ to s, expression $Q_1$ labels the arc from $q_i$. Similarly,  expression $P_i$ labels the arc from $s$ to $p_i$.
+ 
 
 The strategy for constructing a regular expression from a finite automaton is as follows:
 
