@@ -3,4 +3,3 @@
 >[!INFO]
 Theorem: Every language defined by a regular expression is also defined by finite automaton.
 
-
