@@ -3,7 +3,7 @@
 >[!INFO]
 Theorem: If $L = L(A)$ for some DFA $A$, then there is a regular expression $R$ such that $L =  L(R)$.
 
-##### DFA To RE by Induction Method
+##### [[Deterministic Finite Automata|DFA]] To [[Regular Expressions and Languages|RE]] by Induction Method
 ---
 For example,
 ![[dfatore.svg]]
@@ -32,7 +32,7 @@ Regular Expression | Direct Substitution
  $R_{21}^{(1)}$ | $\phi + (\epsilon + 0 + 1)(\epsilon + 0 + 1)^*\phi$ | $\phi$
  $R_{22}^{(1)}$ | $\epsilon + 0 + 1 + (\epsilon + 0 + 1)(\epsilon + 0 + 1)^*\epsilon + 0 + 1$ | $(0 + 1)^*$
 
-##### Converting DFA's to Regular Expression by Eliminating States
+##### Converting [[Deterministic Finite Automata|DFA]]'s to [[Regular Expressions and Languages|Regular Expression]] by Eliminating States
 ----
 We suppose that the automaton of which $s$ is a state has predecessor states $q_1, q_2, ... , q_k$ for $s$ and sucessor states $p_1, p_2, ... ,p_m$ for $s$. For each arc from one of the $q's$ to s, expression $Q_1$ labels the arc from $q_i$. Similarly,  expression $P_i$ labels the arc from $s$ to $p_i$.
 
@@ -68,4 +68,3 @@ Regular expression for the arc from A to C is $1(0+1)$
 $\therefore$ the regular Expression is $(0+1 + 1(0+1)\phi^*\phi)^*1(0+1)\phi^* = (0+1)^*1(0+1)$
 
 The expression for entire automata is $(0+1)^*1(0+1)(0+1) + (0+1)^*1(0+1)$
-

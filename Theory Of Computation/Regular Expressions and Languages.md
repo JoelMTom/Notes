@@ -1,6 +1,11 @@
+---
+aliases: [RE, Regular Expression]
+---
+
+
 #### Regular Expressions and Languages
 ---
-We can recursively define **Regular Expressions**,
+We can recursively define **[[Regular Expressions and Languages|Regular Expression]]**,
 For each regular Expression $E$, the language it represent is $L(E)$.
 
 **BASIS**: The basis consist of three parts:

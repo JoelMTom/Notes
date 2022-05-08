@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Finite Automata and Regular Expression.md",
-            "mode": "source",
+            "file": "Language Hierarchy.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Finite Automata and Regular Expression.md",
+                "file": "Language Hierarchy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,20 +84,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "03a0f47d59036aee",
   "lastOpenFiles": [
-    "Finite Automata and Regular Expression.md",
-    "Non-deterministic Automata.md",
-    "Deterministic Finite Automata.md",
-    "Finite Automata.md",
     "Language Hierarchy.md",
     "Languages.md",
     "Theory Of Computation.md",
     "Regular Expressions and Languages.md",
-    "Untitled.md",
-    "Concatenation and Reverse of Languages.md"
+    "Finite Automata and Regular Expression.md",
+    "NFA TO DFA.md",
+    "Finite Automata.md",
+    "Non-deterministic Automata.md",
+    "Deterministic Finite Automata.md",
+    "Untitled.md"
   ]
 }
