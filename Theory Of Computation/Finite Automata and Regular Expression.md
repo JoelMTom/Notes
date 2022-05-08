@@ -3,7 +3,7 @@
 >[!INFO]
 Theorem: If $L = L(A)$ for some DFA $A$, then there is a regular expression $R$ such that $L =  L(R)$.
 
-##### DFA To RE
+##### DFA To RE by Induction Method
 ---
 For example,
 ![[dfatore.svg]]
@@ -49,3 +49,5 @@ The regular expression for the accepted strings can be described in various ways
 ![[onestate.svg]]
 The regular expressionn denoting the strigs that it accepts is $R^*$.
 - The desired regular expression is the sum of all expressions derived from the reduced automata for each accepting state.
+
+#### Example
