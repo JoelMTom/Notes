@@ -9,3 +9,4 @@ proof&:\\
 &after\ |w|\ steps
 \end{align}
 $$
+[[Theory Of Computation]]

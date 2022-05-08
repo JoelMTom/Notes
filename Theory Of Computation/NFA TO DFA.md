@@ -38,3 +38,4 @@ Lets name {A} -> A,
 
 ##### [[Deterministic Finite Automata|DFA]]
 ![[end01dfa.svg]]
+[[Theory Of Computation]]

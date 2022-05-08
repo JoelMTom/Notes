@@ -37,3 +37,4 @@ We will get rid of the stack of **Pushdown automata** and replace it with an inf
 
 
 [[Finite Automata]]
+[[Theory Of Computation]]

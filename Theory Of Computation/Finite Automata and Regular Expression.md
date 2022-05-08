@@ -68,3 +68,8 @@ Now eliminate D,
 $\therefore$ the [[Regular Expressions and Languages|regular Expression]] is $(0+1 + 1(0+1)\phi^*\phi)^*1(0+1)\phi^* = (0+1)^*1(0+1)$
 
 The expression for entire automata is $(0+1)^*1(0+1)(0+1) + (0+1)^*1(0+1)$
+
+
+
+
+[[Theory Of Computation]]
