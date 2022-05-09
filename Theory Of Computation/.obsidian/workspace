@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Theory Of Computation.md",
+            "file": "Regular Expressions and Languages.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theory Of Computation.md",
+                "file": "Regular Expressions and Languages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,13 +89,13 @@
   },
   "active": "03a0f47d59036aee",
   "lastOpenFiles": [
+    "Regular Expressions and Languages.md",
     "Theory Of Computation.md",
     "Finite Automata and Regular Expression.md",
     "Converting Regular Expressions to Automata.md",
     "Converting DFA to Regular expressions.md",
     "NFA TO DFA.md",
     "Deterministic Finite Automata.md",
-    "Regular Expressions and Languages.md",
     "Concatenation and Reversal of Strings.md",
     "Concatenation and Reverse of Languages.md",
     "DFSM Halts.md"
