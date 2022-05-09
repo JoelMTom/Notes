@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algebraic Laws for Regular Expressions.md",
+            "file": "Theory Of Computation.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebraic Laws for Regular Expressions.md",
+                "file": "Theory Of Computation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,10 +89,10 @@
   },
   "active": "03a0f47d59036aee",
   "lastOpenFiles": [
+    "Theory Of Computation.md",
     "Algebraic Laws for Regular Expressions.md",
     "Concatenation and Reversal of Strings.md",
     "Concatenation and Reverse of Languages.md",
-    "Theory Of Computation.md",
     "Regular Expressions and Languages.md",
     "Converting Regular Expressions to Automata.md",
     "Finite Automata and Regular Expression.md",
