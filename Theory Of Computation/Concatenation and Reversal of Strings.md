@@ -19,4 +19,3 @@ $$
 \end{align}
 $$
 
-[[Theory Of Computation]]

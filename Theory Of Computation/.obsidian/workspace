@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "480b71b3deb4c74d",
@@ -91,14 +90,14 @@
   "active": "03a0f47d59036aee",
   "lastOpenFiles": [
     "Algebraic Laws for Regular Expressions.md",
+    "Concatenation and Reversal of Strings.md",
+    "Concatenation and Reverse of Languages.md",
+    "Theory Of Computation.md",
     "Regular Expressions and Languages.md",
     "Converting Regular Expressions to Automata.md",
     "Finite Automata and Regular Expression.md",
-    "Theory Of Computation.md",
     "Converting DFA to Regular expressions.md",
     "NFA TO DFA.md",
-    "Deterministic Finite Automata.md",
-    "Concatenation and Reversal of Strings.md",
-    "Concatenation and Reverse of Languages.md"
+    "Deterministic Finite Automata.md"
   ]
 }

@@ -8,4 +8,3 @@ If\ x\ and\ y\ are\ strings,\ & then\ \forall x (\forall y ((xy)^R = y^R x^R ))\
 			&= L_2^R L_1^R
 \end{align}
 $$
-[[Theory Of Computation]]
