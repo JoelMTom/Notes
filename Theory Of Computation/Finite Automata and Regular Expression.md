@@ -10,3 +10,4 @@ Theorem: If $L = L(A)$ for some [[Deterministic Finite Automata|DFA]] $A$, then 
 ![[Converting Regular Expressions to Automata]]
 
 [[Theory Of Computation]]
+[[Algebraic Laws for Regular Expressions]]
