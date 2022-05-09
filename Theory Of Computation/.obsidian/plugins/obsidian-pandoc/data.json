@@ -7,7 +7,7 @@
   "displayYAMLFrontmatter": false,
   "linkStrippingBehaviour": "link",
   "highDPIDiagrams": true,
-  "pandoc": null,
+  "pandoc": "C:\\Users\\joelq\\AppData\\Local\\Pandoc",
   "pdflatex": null,
   "outputFolder": null,
   "extraArguments": "",
