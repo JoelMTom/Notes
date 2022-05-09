@@ -12,3 +12,5 @@ Now, we apply star construction for the automata for $0+1$.
 ![[(0+1)s.svg]]
 Construct an automata which accepts only the string $1$.
 
+![[1.svg]]
+
