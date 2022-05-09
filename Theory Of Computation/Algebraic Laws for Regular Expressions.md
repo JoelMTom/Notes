@@ -9,3 +9,7 @@
 - $\phi + L = L + \phi = L$
 - $\epsilon L = L \epsilon = L$
 - $\phi L = L\phi = \phi$
+
+##### Distributive Laws
+-  $L(M + N) = LM + LN$
+- $(M + N)L = ML + NL$
