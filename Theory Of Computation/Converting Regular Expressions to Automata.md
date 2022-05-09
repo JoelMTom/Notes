@@ -14,3 +14,5 @@ Construct an automata which accepts only the string $1$.
 
 ![[1.svg]]
 
+The final automata,
+![[(0+1)s1(0+1).svg]]
