@@ -23,3 +23,5 @@ For each regular Expression $E$, the language it represent is $L(E)$.
 
 [[Finite Automata and Regular Expression]]
 [[Theory Of Computation]]
+[[Algebraic Laws for Regular Expressions]]
+

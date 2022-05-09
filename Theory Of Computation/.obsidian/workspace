@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Regular Expressions and Languages.md",
+            "file": "Algebraic Laws for Regular Expressions.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "480b71b3deb4c74d",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Regular Expressions and Languages.md",
+                "file": "Algebraic Laws for Regular Expressions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +90,15 @@
   },
   "active": "03a0f47d59036aee",
   "lastOpenFiles": [
+    "Algebraic Laws for Regular Expressions.md",
     "Regular Expressions and Languages.md",
-    "Theory Of Computation.md",
-    "Finite Automata and Regular Expression.md",
     "Converting Regular Expressions to Automata.md",
+    "Finite Automata and Regular Expression.md",
+    "Theory Of Computation.md",
     "Converting DFA to Regular expressions.md",
     "NFA TO DFA.md",
     "Deterministic Finite Automata.md",
     "Concatenation and Reversal of Strings.md",
-    "Concatenation and Reverse of Languages.md",
-    "DFSM Halts.md"
+    "Concatenation and Reverse of Languages.md"
   ]
 }
