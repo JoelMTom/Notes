@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="800" height="400" version="1.1" xmlns="http://www.w3.org/2000/svg">
+	<ellipse stroke="white" stroke-width="1" fill="none" cx="253.5" cy="240.5" rx="30" ry="30"/>
+	<text fill="white" x="248.5" y="246.5" font-family="Times New Roman" font-size="20">1</text>
+	<ellipse stroke="white" stroke-width="1" fill="none" cx="437.5" cy="240.5" rx="30" ry="30"/>
+	<text fill="white" x="432.5" y="246.5" font-family="Times New Roman" font-size="20">2</text>
+	<ellipse stroke="white" stroke-width="1" fill="none" cx="253.5" cy="348.5" rx="30" ry="30"/>
+	<text fill="white" x="248.5" y="354.5" font-family="Times New Roman" font-size="20">3</text>
+	<ellipse stroke="white" stroke-width="1" fill="none" cx="440.5" cy="348.5" rx="30" ry="30"/>
+	<text fill="white" x="435.5" y="354.5" font-family="Times New Roman" font-size="20">4</text>
+	<ellipse stroke="white" stroke-width="1" fill="none" cx="112.5" cy="300.5" rx="30" ry="30"/>
+	<text fill="white" x="107.5" y="306.5" font-family="Times New Roman" font-size="20">0</text>
+	<ellipse stroke="white" stroke-width="1" fill="none" cx="578.5" cy="292.5" rx="30" ry="30"/>
+	<text fill="white" x="573.5" y="298.5" font-family="Times New Roman" font-size="20">5</text>
+	<polygon stroke="white" stroke-width="1" points="283.5,240.5 407.5,240.5"/>
+	<polygon fill="white" stroke-width="1" points="407.5,240.5 399.5,235.5 399.5,245.5"/>
+	<text fill="white" x="340.5" y="261.5" font-family="Times New Roman" font-size="20">0</text>
+	<polygon stroke="white" stroke-width="1" points="283.5,348.5 410.5,348.5"/>
+	<polygon fill="white" stroke-width="1" points="410.5,348.5 402.5,343.5 402.5,353.5"/>
+	<text fill="white" x="342.5" y="369.5" font-family="Times New Roman" font-size="20">1</text>
+	<polygon stroke="white" stroke-width="1" points="140.105,288.753 225.895,252.247"/>
+	<polygon fill="white" stroke-width="1" points="225.895,252.247 216.576,250.778 220.492,259.98"/>
+	<text fill="white" x="187.5" y="291.5" font-family="Times New Roman" font-size="20">&#949;</text>
+	<polygon stroke="white" stroke-width="1" points="140.899,310.168 225.101,338.832"/>
+	<polygon fill="white" stroke-width="1" points="225.101,338.832 219.139,331.521 215.916,340.987"/>
+	<text fill="white" x="170.5" y="345.5" font-family="Times New Roman" font-size="20">&#949;</text>
+	<polygon stroke="white" stroke-width="1" points="465.647,250.88 550.353,282.12"/>
+	<polygon fill="white" stroke-width="1" points="550.353,282.12 544.577,274.66 541.117,284.043"/>
+	<text fill="white" x="495.5" y="287.5" font-family="Times New Roman" font-size="20">&#949;</text>
+	<polygon stroke="white" stroke-width="1" points="468.298,337.219 550.702,303.781"/>
+	<polygon fill="white" stroke-width="1" points="550.702,303.781 541.409,302.156 545.169,311.422"/>
+	<text fill="white" x="514.5" y="341.5" font-family="Times New Roman" font-size="20">&#949;</text>
+</svg>
