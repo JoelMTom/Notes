@@ -23,3 +23,13 @@ $$
 &= 0(\epsilon + 1^*) = 01^*\ (Since\ L(1^*)\ have\ \epsilon\ in\ it)
 \end{aligned}
 $$
+##### The Idempotent Law
+- $L + L = L$
+
+##### Laws Involving Closures
+- $(L^*)^* = L^*$
+- $\phi^* = \epsilon$
+- $\epsilon^* = \epsilon$
+- $L^+ = LL^* = L^*L$
+- $L^* = L^+ + \epsilon$
+
