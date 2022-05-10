@@ -25,7 +25,7 @@ $$
 Theorem: If $\sum \neq \phi$, then $\sum*$ is countably infinite.
 
 #### Theorem An Uncountably Infinite Number of Languages
-c
+
 
 ##### Kleene  Star
 Let L be a language defined over some alphabet $\sum$. Then the Kleene star of L, written L* is:
