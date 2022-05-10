@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Properties of Regular Languages.md",
+            "file": "Closure Properties of Regular Languages.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Properties of Regular Languages.md",
+                "file": "Closure Properties of Regular Languages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +90,7 @@
   },
   "active": "03a0f47d59036aee",
   "lastOpenFiles": [
+    "Closure Properties of Regular Languages.md",
     "Properties of Regular Languages.md",
     "Algebraic Laws for Regular Expressions.md",
     "Languages.md",
@@ -98,7 +99,6 @@
     "NFA TO DFA.md",
     "Non-deterministic Automata.md",
     "Deterministic Finite Automata.md",
-    "Finite Automata.md",
-    "Regular Expressions and Languages.md"
+    "Finite Automata.md"
   ]
 }
