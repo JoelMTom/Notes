@@ -1,8 +1,7 @@
 ### Properties of Regular Languages
 ---
-#### Proving Languages not to be Regular
 
-##### The Pumping Lemma for Regular Languages
+#### The Pumping Lemma for Regular Languages
 
 ###### Theorem: The pumping lemma for regular languages
 
