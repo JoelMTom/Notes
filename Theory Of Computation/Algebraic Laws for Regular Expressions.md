@@ -33,3 +33,7 @@ $$
 - $L^+ = LL^* = L^*L$
 - $L^* = L^+ + \epsilon$
 
+>[!INFO]
+Theorem: Let $E$ be a regular expression with variables $L_1, L_2, ... , L_m.$ Form concrete regular expression $C$ by replacing each occurence of $L_i$ by the symbol $a_i$ for $i = 1,2, ..., m$. Then for any languages $L_1, L_2, ..., L_m$, every string $w$ in $L(E)$ can be written $w = w_1w_2...w_k$, where each $w_i$ is one of the languages, say $L_{j_i}$, and the string $a_{j_1}a_{j_2}...a_{j_k}$ is in the language $L(C)$.  Less formally, we can construct $L(E)$ by starting with each string in $L(C)$, say $a_{j_1}a_{j_2}...a_{j_k}$, and substituting for each of the $a_{j_i}$'s any string from the corresponding language $L_{j_i}.$
+
+

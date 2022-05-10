@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Lexical Analysis.md",
+            "file": "Regular Expressions.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lexical Analysis.md",
+                "file": "Regular Expressions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +90,7 @@
   },
   "active": "ac7aac50fb33d851",
   "lastOpenFiles": [
+    "Regular Expressions.md",
     "Lexical Analysis.md",
     "Code Optimization.md",
     "Compiler Design.md",

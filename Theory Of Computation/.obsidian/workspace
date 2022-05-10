@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Non-deterministic Automata.md",
-            "mode": "preview",
+            "file": "Algebraic Laws for Regular Expressions.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "480b71b3deb4c74d",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Non-deterministic Automata.md",
+                "file": "Algebraic Laws for Regular Expressions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,19 +85,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "03a0f47d59036aee",
   "lastOpenFiles": [
+    "Algebraic Laws for Regular Expressions.md",
+    "Theory Of Computation.md",
+    "Language Hierarchy.md",
+    "NFA TO DFA.md",
     "Non-deterministic Automata.md",
     "Deterministic Finite Automata.md",
     "Finite Automata.md",
-    "Language Hierarchy.md",
-    "Theory Of Computation.md",
     "Regular Expressions and Languages.md",
     "Converting Regular Expressions to Automata.md",
-    "Converting DFA to Regular expressions.md",
-    "Finite Automata and Regular Expression.md",
-    "Algebraic Laws for Regular Expressions.md"
+    "Converting DFA to Regular expressions.md"
   ]
 }
