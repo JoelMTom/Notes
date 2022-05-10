@@ -13,5 +13,3 @@
 
 #### Closure Propertiess of Regular Languages
 ---
-
-
