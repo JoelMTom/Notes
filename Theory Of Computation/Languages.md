@@ -25,6 +25,9 @@ $$
 Theorem: If $\sum \neq \phi$, then $\sum*$ is countably infinite.
 
 #### Theorem An Uncountably Infinite Number of Languages
+>[!INFO]
+Theorem: If $\sum \neq \phi$, then $\sum$ is uncountably infinite.
+
 
 
 ##### Kleene  Star
