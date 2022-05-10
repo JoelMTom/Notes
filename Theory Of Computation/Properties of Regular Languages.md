@@ -11,6 +11,3 @@
 >2. $|xy| \leq n$
 >3. For all $k \geq 0$, the string $xy^kz$ is also in L
 
-hello
-
-
