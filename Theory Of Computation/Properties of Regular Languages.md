@@ -13,3 +13,6 @@
 
 #### Closure Propertiess of Regular Languages
 ---
+
+![[Closure Under Union]]
+
