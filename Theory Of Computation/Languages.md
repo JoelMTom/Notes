@@ -1,4 +1,4 @@
-#### Languages
+### Languages
 ---
 A language is a(finite or infinite) set of strings over a finite alphabet $\sum$.
 
@@ -10,7 +10,7 @@ $Let\ L = \{\} = \phi$.
 >$Let = \{\epsilon\}$, the language that contains a single string, $\epsilon$.
 >L is different from $\epsilon$ 
 
-##### Cardinality of a Language
+#### Cardinality of a Language
 The largest language over any alphabet $\sum$ is $\sum$*. 
 
 $$
@@ -20,11 +20,11 @@ $$
 \end{align}
 $$
 
-##### Theorem The Cardinality of $\sum$*
+#### Theorem The Cardinality of $\sum$*
 >[!INFO]
 Theorem: If $\sum \neq \phi$, then $\sum*$ is countably infinite.
 
-##### Theorem An Uncountably Infinite Number of Languages
+#### Theorem An Uncountably Infinite Number of Languages
 c
 
 ##### Kleene  Star

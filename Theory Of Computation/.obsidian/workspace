@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Properties of Regular Languages.md",
+            "file": "Languages.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Properties of Regular Languages.md",
+                "file": "Languages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,10 +90,10 @@
   },
   "active": "03a0f47d59036aee",
   "lastOpenFiles": [
-    "Properties of Regular Languages.md",
-    "Algebraic Laws for Regular Expressions.md",
     "Languages.md",
     "Theory Of Computation.md",
+    "Properties of Regular Languages.md",
+    "Algebraic Laws for Regular Expressions.md",
     "Language Hierarchy.md",
     "NFA TO DFA.md",
     "Non-deterministic Automata.md",

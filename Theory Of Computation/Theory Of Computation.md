@@ -46,7 +46,7 @@ $$
 >[!INFO]
 Theorem: If $w$ and $x$ are strings, then $(wx)^R = x^R w^R$ .
 
-#### Relations on Strings
+### Relations on Strings
 A string $s$ is a **substring** of a string $t$ iff $s$ occurs contiguously as part of $t$. 
 $$
 \begin{align}

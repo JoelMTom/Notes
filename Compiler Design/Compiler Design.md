@@ -20,11 +20,4 @@ C ---> D(Output)
 ```
 
 
-## Lexical Analysis
-- First phase of a compiler
-- The lexical analyzer - reads stream of characters(source program) - groups the characters into meaningful sequences called lexemes.
-- For each, lexical analyzer produces a $tokens$ of the form
 
-$$
-<token-name, attribute-value>
-$$
