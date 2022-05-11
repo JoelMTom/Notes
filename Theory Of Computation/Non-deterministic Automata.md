@@ -2,7 +2,7 @@
 aliases: [NDFSM, Non-Deterministic State Machine, NFA, Non-deterministic Automata]
 ---
 
-#### Non-[[Deterministic Finite Automata|Deterministic Automata]]
+#### [[Non-deterministic Automata]]
 ---
 A Non-Deterministic [[Non-deterministic Automata|NDFSM]] M is quintuple $(K, \sum, \Delta, s, A)$, where:
 - K is a finite set of states, 
