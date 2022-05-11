@@ -38,6 +38,10 @@ C | C | C
 >Theorem: Every [[Deterministic Finite Automata|DFSM]] M, on input w, halts after $|w|$ steps.
 
 
+![[Converting NFA to DFA]]
+
+
+
 [[Non-deterministic Automata]]
 
 
