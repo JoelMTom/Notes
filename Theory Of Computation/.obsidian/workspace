@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Deterministic Finite Automata.md",
+            "file": "Closure Under Complementation.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deterministic Finite Automata.md",
+                "file": "Closure Under Complementation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,20 +84,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "03a0f47d59036aee",
   "lastOpenFiles": [
-    "Deterministic Finite Automata.md",
-    "Converting NFA to DFA.md",
-    "Language Hierarchy.md",
-    "Finite Automata.md",
-    "Non-deterministic Automata.md",
+    "Closure Under Complementation.md",
+    "Properties of Regular Languages.md",
+    "Algebraic Laws for Regular Expressions.md",
+    "Untitled.md",
     "Finite Automata and Regular Expression.md",
-    "Theory Of Computation.md",
-    "images/twostate.svg",
-    "images/onestate.svg",
-    "images/evenaregion.svg"
+    "Regular Expressions and Languages.md",
+    "Non-deterministic Automata.md",
+    "Deterministic Finite Automata.md",
+    "Finite Automata.md",
+    "Language Hierarchy.md"
   ]
 }

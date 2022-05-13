@@ -16,3 +16,4 @@
 
 ![[Closure Under Union]]
 
+![[Closure Under Complementation]]
