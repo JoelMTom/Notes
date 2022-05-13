@@ -17,3 +17,5 @@
 ![[Closure Under Union]]
 
 ![[Closure Under Complementation]]
+
+![[Closure Under Difference]]
