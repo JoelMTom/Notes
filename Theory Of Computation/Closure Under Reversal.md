@@ -28,3 +28,4 @@ INDUCTION: Three cases:
 - $E = E_1^*$. Then $E^R = (E_1^R)^*$. 
 
 	Any string $w$ in $L(E)$ can be written as $w_1w_2...w_n$, where each $w_i$ is in $L(E_1)$. But $w^R = w_n^Rw_{n-1}^R...w_1^R$.. Each $w_i^R$ is in $L(E_1^R)$, so $w^R$ is in $L((E_1^R)^*)$ 
+	Conversely, any string in $L((E_1^R)^*)$  is of the form $w_1w_2...w_n$, where each $w_i$ is the reversal of a string in $L(E_1)$. The reversal of this string $w_n^Rw_{n-1}^R...w_1^R$, is therefore a string in $L(E_1^*)$, which is $L(E)$.
