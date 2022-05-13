@@ -6,6 +6,6 @@ proof:
 
 $$
 \begin{aligned}
-&Let\ L = L(A)\ for\ some\ DFA\ A = (Q, \sum, \delta, q_0, F).\\  &Then\ \vec{L} = L(B),\ where\ B\ is\ the\ DFA\ B =(Q, \sum, \\&\delta, q_0, Q-F).Then\ w\ is\ the\ L(B)\ if\ and\ only\ if\ + 
+&Let\ L = L(A)\ for\ some\ DFA\ A = (Q, \sum, \delta, q_0, F).\\  &Then\ \vec{L} = L(B),\ where\ B\ is\ the\ DFA\ B =(Q, \sum, \\&\delta, q_0, Q-F).Then\ w\ is\ in\ L(B)\ if\ and\ only\ if\ \hat{\delta}(q_0, w)\ is\ in Q - F, which occurs 
 \end{aligned}
 $$
