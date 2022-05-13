@@ -25,4 +25,6 @@ INDUCTION: Three cases:
 
 - $E = E_1 + E_2$. Then $E^R = E_1^R + E_2^R$
 - $E = E_1E_2$. Then $E = E_2^RE_1^R$
-- $E = 
+- $E = E_1^*$. Then $E^R = (E_1^*)$. 
+
+	Any string in $w$ in $L(E)$ can be written as $w_1w_2...w_n$, where each $w_i$ is in $L(E)$.
