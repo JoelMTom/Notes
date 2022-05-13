@@ -27,4 +27,4 @@ INDUCTION: Three cases:
 - $E = E_1E_2$. Then $E = E_2^RE_1^R$
 - $E = E_1^*$. Then $E^R = (E_1^*)$. 
 
-	Any string $w$ in $L(E)$ can be written as $w_1w_2...w_n$, where each $w_i$ is in $L(E)$.
+	Any string $w$ in $L(E_1)$ can be written as $w_1w_2...w_n$, where each $w_i$ is in $L(E)$. But $w^R = w_n^Rw_{n-1}^R...w_1^R$.. Each $w_i$ is in $L(E)$, so $w^R$ is in $L()
