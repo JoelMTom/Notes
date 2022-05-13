@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Homommorphisms.md",
+            "file": "Homomorphisms.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homommorphisms.md",
+                "file": "Homomorphisms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
   },
   "active": "03a0f47d59036aee",
   "lastOpenFiles": [
-    "Homommorphisms.md",
+    "Homomorphisms.md",
     "Properties of Regular Languages.md",
     "Closure Under Reversal.md",
     "Theory Of Computation.md",

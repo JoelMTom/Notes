@@ -20,3 +20,5 @@
 
 ![[Closure Under Difference]]
 
+![[Homomorphisms]]
+
