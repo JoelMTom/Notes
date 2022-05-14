@@ -11,3 +11,8 @@ If the starting states of two [[Deterministic Finite Automata|DFA]] are equivale
 
 #### Minimization of [[Deterministic Finite Automata|DFA]]'s
 ---
+
+###### Algorithm:
+1. First, eliminate any state that cannot be reached from the start state.
+2. Then, partition the remaining states into blocks, so that all states in the same block are equivalent, and no pair of states from different blocks are equivalent.
+
