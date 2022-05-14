@@ -9,3 +9,7 @@ If $h$ is homomorphism on alphabet $\sum$, and $w = a_1a_2...a_n$ is string of s
 
 If $L$ is a language over alphabet $\sum$, and $h$ is a homomorphism on $\sum$, then $h(L) = \{h(w) | w\ is\ in\ L\}$
 
+##### Theorem:
+> [!Info]
+> If $L$ is a regular language over alphabet $\sum$, and $h$ is a homomorphism on $\sum$, then $h(L)$ is also regular.
+
