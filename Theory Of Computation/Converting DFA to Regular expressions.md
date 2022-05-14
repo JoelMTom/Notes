@@ -53,7 +53,7 @@ $Q_1 = 1,\ P_1 = 0 + 1,\ R_{AC} = \phi,\ and\ S = \phi$.
 $\therefore$ The expression on the new arc from A to C is $\phi + 1\phi^*(0+1)$ = $1(0+1)$
 ![[01secthird1.svg]]
 Now eliminate C, 
-[[Regular Expressions and Languages|Regular expression]] for the arc from A to D is $\phi + 1(0+1)\phi(0+1) = 1(0+1)(0+1).$
+[[Regular Expressions and Languages|Regular expression]] for the arc from A to D is $\phi + 1(0+1)\phi^*(0+1) = 1(0+1)(0+1).$
 ![[01secthird2.svg]]
 $\therefore$ the [[Regular Expressions and Languages|regular expression]] is $((0+1) + 1(0+1)(0+1)\phi^*\phi)^*1(0+1)(0+1)\phi^* = (0+1)^*1(0+1)(0+1)$ 
 
