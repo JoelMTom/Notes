@@ -43,6 +43,7 @@ C | C | C
 
 
 [[Non-deterministic Automata]]
-
+[[Regular Expressions and Languages]]
+[[Theory Of Computation]]
 
 
