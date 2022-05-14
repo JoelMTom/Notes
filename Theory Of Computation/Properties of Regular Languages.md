@@ -22,3 +22,4 @@
 
 ![[Homomorphisms]]
 
+![[Inverse Homomorphisms]]
