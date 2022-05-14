@@ -20,4 +20,5 @@ Theorem: If $D = (Q_D, \sum, \delta_D, \{q_0\}, F_D)$ is the [[Deterministic Fin
 
 
 [[Theory Of Computation]]
+[[Finite Automata and Regular Expression]]
 [[Regular Expressions and Languages]]
