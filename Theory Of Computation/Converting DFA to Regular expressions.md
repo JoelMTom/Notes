@@ -29,9 +29,9 @@ Regular Expression | Direct Substitution
 
 ##### Converting [[Deterministic Finite Automata|DFA]]'s to [[Regular Expressions and Languages|Regular Expression]] by Eliminating States
 ----
-We suppose that the automaton of which $s$ is a state has predecessor states $q_1, q_2, ... , q_k$ for $s$ and sucessor states $p_1, p_2, ... ,p_m$ for $s$. For each arc from one of the $q's$ to s, expression $Q_1$ labels the arc from $q_i$. Similarly,  expression $P_i$ labels the arc from $s$ to $p_i$.
+We suppose that the automaton of which $s$ is a state has predecessor states $q_1, q_2, ... , q_k$ for $s$ and sucessor states $p_1, p_2, ... ,p_m$ for $s$. For each arc from one of the $q's$ to s, expression $Q_i$ labels the arc from $q_i$. Similarly,  expression $P_i$ labels the arc from $s$ to $p_i$.
 
-When we eliminate state $s$, all arcs involving state $s$ are deleted. To compensate, we introduce, for each predecessor $q_i$ of $s$ and each successor $p_j$, a [[Regular Expressions and Languages|regular expression]] that represents all the paths that starts at $q_i$, go to $s$, perhaps loops around $s$ zero or more times, annd finally go to $p_j$. The expression for this path is $Q_iS^*P_j$ This expression is added to the arc from $q_i$ to $p_j$.
+When we eliminate state $s$, all arcs involving state $s$ are deleted. To compensate, we introduce, for each predecessor $q_i$ of $s$ and each successor $p_j$, a [[Regular Expressions and Languages|regular expression]] that represents all the paths that starts at $q_i$, go to $s$, perhaps loops around $s$ zero or more times, and finally go to $p_j$. The expression for this path is $Q_iS^*P_j$ This expression is added to the arc from $q_i$ to $p_j$.
  
 
 The strategy for constructing a [[Regular Expressions and Languages|regular expression]] from a finite automaton is as follows:
