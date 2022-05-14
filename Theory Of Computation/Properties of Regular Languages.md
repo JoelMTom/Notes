@@ -20,6 +20,8 @@
 
 ![[Closure Under Difference]]
 
+![[Closure Under Reversal]]
+
 ![[Homomorphisms]]
 
 ![[Inverse Homomorphisms]]
