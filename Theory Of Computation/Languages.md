@@ -7,7 +7,7 @@ A language is a(finite or infinite) set of strings over a finite alphabet $\sum$
 $Let\ L = \{\} = \phi$.
 > L is the language that contains no strings
 > ##### The Empty Language is Different From the Empty String
->$Let = \{\epsilon\}$, the language that contains a single string, $\epsilon$.
+>$Let\ L = \{\epsilon\}$, the language that contains a single string, $\epsilon$.
 >L is different from $\epsilon$ 
 
 #### Cardinality of a Language
