@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Languages.md",
+            "file": "Equivalence and Minimization of Automata.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Languages.md",
+                "file": "Equivalence and Minimization of Automata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "03a0f47d59036aee",
   "lastOpenFiles": [
+    "Equivalence and Minimization of Automata.md",
     "Languages.md",
     "Finite Automata.md",
     "Properties of Regular Languages.md",
@@ -96,7 +97,6 @@
     "Regular Expressions and Languages.md",
     "Deterministic Finite Automata.md",
     "Non-deterministic Automata.md",
-    "Theory Of Computation.md",
-    "Language Hierarchy.md"
+    "Theory Of Computation.md"
   ]
 }
