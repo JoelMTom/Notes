@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inverse Homomorphisms.md",
+            "file": "Theory Of Computation.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inverse Homomorphisms.md",
+                "file": "Theory Of Computation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "03a0f47d59036aee",
   "lastOpenFiles": [
+    "Theory Of Computation.md",
+    "Non-deterministic Automata.md",
+    "Deterministic Finite Automata.md",
+    "Finite Automata.md",
     "Inverse Homomorphisms.md",
+    "Regular Expressions and Languages.md",
     "Properties of Regular Languages.md",
     "Homomorphisms.md",
     "Language Hierarchy.md",
-    "Languages.md",
-    "Regular Expressions and Languages.md",
-    "Closure Under Reversal.md",
-    "Theory Of Computation.md",
-    "Concatenation and Reverse of Languages.md",
-    "Closure Under Difference.md"
+    "Languages.md"
   ]
 }
