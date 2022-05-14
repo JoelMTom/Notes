@@ -49,7 +49,7 @@ The regular expressionn denoting the strigs that it accepts is $R^*$.
 Consider the [[Non-deterministic Automata|NFA]] that accepts all strings of $0's$ and $1's$ such that either the second ot third position from the end has a $1$.
 ![[01secthird.svg]]
 First eliminate state B, it has one predecessor, A, and one successor, C.
-$Q_1 = 1,\ P_1 = 0 + 1,\ R_{11} = \phi,\ and\ S = \phi$.
+$Q_1 = 1,\ P_1 = 0 + 1,\ R_{AC} = \phi,\ and\ S = \phi$.
 $\therefore$ The expression on the new arc from A to C is $\phi + 1\phi^*(0+1)$ = $1(0+1)$
 ![[01secthird1.svg]]
 Now eliminate C, 
