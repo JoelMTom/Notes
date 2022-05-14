@@ -90,14 +90,14 @@
   "active": "03a0f47d59036aee",
   "lastOpenFiles": [
     "Equivalence and Minimization of Automata.md",
+    "Non-deterministic Automata.md",
+    "Deterministic Finite Automata.md",
+    "Theory Of Computation.md",
+    "Languages.md",
     "Mealy Machine.md",
     "More Machine.md",
     "Finite Automata With Output.md",
     "Finite Automata and Regular Expression.md",
-    "Regular Expressions and Languages.md",
-    "Arden's Theorem.md",
-    "Converting DFA to Regular expressions.md",
-    "Algebraic Laws for Regular Expressions.md",
-    "Languages.md"
+    "Regular Expressions and Languages.md"
   ]
 }
