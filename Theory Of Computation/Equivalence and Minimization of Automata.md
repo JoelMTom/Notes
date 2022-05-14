@@ -16,3 +16,8 @@ If the starting states of two [[Deterministic Finite Automata|DFA]] are equivale
 1. First, eliminate any state that cannot be reached from the start state.
 2. Then, partition the remaining states into blocks, so that all states in the same block are equivalent, and no pair of states from different blocks are equivalent.
 
+
+##### Theorem: 
+> [!Info]
+> The equivalence of states is transitive. That is, if in some DFA $A = (Q, \sum, \delta, q_0, F)$ we find that states $p$ and $q$ are equivalent, and we also find that $q$ and $r$ are equivalent, then it must be that $p$ and $r$ are equivalent.
+
