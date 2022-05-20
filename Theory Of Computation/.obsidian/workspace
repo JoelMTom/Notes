@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Equivalence and Minimization of Automata.md",
+            "file": "Deterministic Finite Automata.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "8863f97231c518d5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Non-deterministic Automata.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Equivalence and Minimization of Automata.md",
+                "file": "Deterministic Finite Automata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,13 +96,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "03a0f47d59036aee",
   "lastOpenFiles": [
-    "Equivalence and Minimization of Automata.md",
-    "Non-deterministic Automata.md",
     "Deterministic Finite Automata.md",
+    "Non-deterministic Automata.md",
+    "Equivalence and Minimization of Automata.md",
     "Theory Of Computation.md",
     "Languages.md",
     "Mealy Machine.md",
