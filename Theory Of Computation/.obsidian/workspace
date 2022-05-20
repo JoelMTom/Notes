@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Deterministic Finite Automata.md",
-            "mode": "preview",
+            "file": "Theory Of Computation.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deterministic Finite Automata.md",
+                "file": "Theory Of Computation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,10 +101,10 @@
   },
   "active": "03a0f47d59036aee",
   "lastOpenFiles": [
+    "Theory Of Computation.md",
     "Deterministic Finite Automata.md",
     "Non-deterministic Automata.md",
     "Equivalence and Minimization of Automata.md",
-    "Theory Of Computation.md",
     "Languages.md",
     "Mealy Machine.md",
     "More Machine.md",
