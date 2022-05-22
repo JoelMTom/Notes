@@ -23,4 +23,4 @@ If the starting states of two [[Deterministic Finite Automata|DFA]] are equivale
 
 ###### Theorem: 
 > [!Info]
-> If we create for each state $q$ of a DFA a block consisting of $q$ and all the states equivalent to $q$, then the different blocks of states form a $partition$ 
+> If we create for each state $q$ of a DFA a block consisting of $q$ and all the states equivalent to $q$, then the different blocks of states form a $partition$ of the set of states.
