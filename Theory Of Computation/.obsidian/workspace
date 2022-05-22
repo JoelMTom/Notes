@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Theory Of Computation.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -22,7 +22,7 @@
           "type": "markdown",
           "state": {
             "file": "Non-deterministic Automata.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theory Of Computation.md",
+                "file": "Non-deterministic Automata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,11 +99,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "03a0f47d59036aee",
+  "active": "8863f97231c518d5",
   "lastOpenFiles": [
+    "Non-deterministic Automata.md",
     "Theory Of Computation.md",
     "Deterministic Finite Automata.md",
-    "Non-deterministic Automata.md",
     "Equivalence and Minimization of Automata.md",
     "Languages.md",
     "Mealy Machine.md",

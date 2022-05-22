@@ -21,3 +21,7 @@ $E$ = set of edges
 - Transitive Closure
 
 
+![[Depth First Search|DFS]]
+
+
+![[Breadth First Search|BFS]]
