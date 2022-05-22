@@ -4,6 +4,9 @@
 3. while not q.empty()
 4. {
 		1.  w = q.front()
-		2. for all vertices $w$ adjacent to $u$ do
-			1. 
+		2. q.pop_front()
+		3. for all vertices $w$ adjacent to $u$ do
+		4. {
+			5. for all 
+		5. }
 5. }
