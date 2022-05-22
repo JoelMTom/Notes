@@ -25,3 +25,7 @@ $E$ = set of edges
 
 
 ![[Breadth First Search|BFS]]
+
+![[Breadth First Traversal]]
+
+
