@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Graphs.md",
+            "file": "BFS Algorithm.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "cea2ab8c5ea2881c",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graphs.md",
+                "file": "BFS Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +85,16 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "0f1670b041034e75",
   "lastOpenFiles": [
+    "BFS Algorithm.md",
+    "Breadth First Search.md",
     "Graphs.md",
     "Depth First Search.md",
-    "Breadth First Search.md",
     "DFS Algorithm.md",
-    "BFS Algorithm.md",
     "Suffix Tree.md"
   ]
 }
