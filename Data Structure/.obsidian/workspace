@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BFS Algorithm.md",
+            "file": "Breadth First Search.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "cea2ab8c5ea2881c",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BFS Algorithm.md",
+                "file": "Breadth First Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,8 +89,8 @@
   },
   "active": "0f1670b041034e75",
   "lastOpenFiles": [
-    "BFS Algorithm.md",
     "Breadth First Search.md",
+    "BFS Algorithm.md",
     "Graphs.md",
     "Depth First Search.md",
     "DFS Algorithm.md",
