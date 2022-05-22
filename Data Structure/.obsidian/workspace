@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Depth First Search.md",
+            "file": "Graphs.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Depth First Search.md",
+                "file": "Graphs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,10 +88,10 @@
   },
   "active": "0f1670b041034e75",
   "lastOpenFiles": [
+    "Graphs.md",
     "Depth First Search.md",
     "Breadth First Search.md",
     "DFS Algorithm.md",
-    "Graphs.md",
     "BFS Algorithm.md",
     "Suffix Tree.md"
   ]
