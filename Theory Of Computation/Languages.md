@@ -15,7 +15,7 @@ The largest language over any alphabet $\sum$ is $\sum$*.
 
 $$
 \begin{align}
-&if\ \sum \neq \phi.
+&if\ \sum = \phi.
 &Then\ \sum* = \{\epsilon\}\ and\ |\sum*| = 1 
 \end{align}
 $$
