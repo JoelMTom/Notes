@@ -24,8 +24,8 @@ Regular Expression | Direct Substitution
 ---| --- | ---
  $R_{11}^{(2)}$ | $1^* + 1^*0(\epsilon + 0 + 1)^*\phi$ | $1^*$
  $R_{12}^{(2)}$ | $1^*0 + 1^*(\epsilon + 0 + 1)^*(\epsilon + 0 + 1)$ | $1^*0(0 +1)^*$
- $R_{21}^{(1)}$ | $\phi + (\epsilon + 0 + 1)(\epsilon + 0 + 1)^*\phi$ | $\phi$
- $R_{22}^{(1)}$ | $\epsilon + 0 + 1 + (\epsilon + 0 + 1)(\epsilon + 0 + 1)^*\epsilon + 0 + 1$ | $(0 + 1)^*$
+ $R_{21}^{(2)}$ | $\phi + (\epsilon + 0 + 1)(\epsilon + 0 + 1)^*\phi$ | $\phi$
+ $R_{22}^{(2)}$ | $\epsilon + 0 + 1 + (\epsilon + 0 + 1)(\epsilon + 0 + 1)^*\epsilon + 0 + 1$ | $(0 + 1)^*$
 
 ##### Converting [[Deterministic Finite Automata|DFA]]'s to [[Regular Expressions and Languages|Regular Expression]] by Eliminating States
 ----
