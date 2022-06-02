@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Non-deterministic Automata.md",
+                "file": "Theory Of Computation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,10 +99,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8863f97231c518d5",
+  "active": "03a0f47d59036aee",
   "lastOpenFiles": [
-    "Non-deterministic Automata.md",
     "Theory Of Computation.md",
+    "Non-deterministic Automata.md",
     "Deterministic Finite Automata.md",
     "Equivalence and Minimization of Automata.md",
     "Languages.md",
