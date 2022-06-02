@@ -15,7 +15,7 @@ The largest language over any alphabet $\sum$ is $\sum$*.
 
 $$
 \begin{align}
-&if\ \sum \neq \phi.
+&if\ \sum = \phi.
 &Then\ \sum* = \{\epsilon\}\ and\ |\sum*| = 1 
 \end{align}
 $$
@@ -26,7 +26,7 @@ Theorem: If $\sum \neq \phi$, then $\sum*$ is countably infinite.
 
 #### Theorem An Uncountably Infinite Number of Languages
 >[!INFO]
-Theorem: If $\sum \neq \phi$, then $\sum$ is uncountably infinite.
+Theorem: If $\sum \neq \phi$, then the set of languages over $\sum$ is uncountably infinite.
 
 
 
@@ -42,7 +42,7 @@ $L^+ = L^* - \{\epsilon\}$
 
 ##### Theorem ![[Concatenation and Reverse of Languages]]
 >[!INFO]
-Theorem: If $L_1$ and $L_2$ are languages, then $(L1 L2)^R = L_2^R L_1^R$
+Theorem: If $L_1$ and $L_2$ are languages, then $(L_1 L_2)^R = L_2^R L_1^R$
 
 [[Language Hierarchy]]
 [[Theory Of Computation]]
