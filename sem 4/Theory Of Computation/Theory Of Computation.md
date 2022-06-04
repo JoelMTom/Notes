@@ -56,7 +56,7 @@ For\ example:\\
 \end{align}
 $$
 A string $s$ is a **proper substring** of a string $t$ iff $s$ is a substring of $t$ and $s \neq t$.
-
+P
 Every string is a substring of itself. The empty string, $\epsilon$, is a substring of every string.
 
 A string $s$ is a **prefix** of $t$ iff $\exists x \in \sum* (t = sx)$. A string s is a **proper prefix** of a string $t$ iff $s$ is a prefix of $t$ and $s \neq t$. Every string is a prefix of itself. The empty string, $\epsilon$, is a prefix of every string. 
