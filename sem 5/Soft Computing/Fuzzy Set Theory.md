@@ -23,3 +23,6 @@ A\ =\ \{x\,\ \mu_A(x)\ |\ x\ \in\ X\},
 $$
 where $\mu_A(x)$ is called  the $membership\ funnction(MF)$ for the fuzzy set $A$. The MF maps each elements of $X$ to a membership grade between 0 and 1.
 
+#### Support
+The support of a fuzzy set $A$ is the set of all points $x$ in $X$ such that $\mu_A = 1$:
+$$core(A)\ \{x\}
